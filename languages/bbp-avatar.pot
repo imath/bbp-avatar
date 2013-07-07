@@ -1,0 +1,112 @@
+# Copyright (C) 2013 bbPress Avatar
+# This file is distributed under the same license as the bbPress Avatar package.
+msgid ""
+msgstr ""
+"Project-Id-Version: bbPress Avatar 1.0-beta1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/bbp-avatar\n"
+"POT-Creation-Date: 2013-07-06 16:27:54+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/admin.php:17
+msgid "Avatar Settings"
+msgstr ""
+
+#: includes/admin.php:45
+msgid "Avatar settings to customize its behavior."
+msgstr ""
+
+#: includes/admin.php:50
+msgid "The author of the bbpavatar draft posts is : %s, he is able to upload avatar suggestions for the forum participants"
+msgstr ""
+
+#: includes/admin.php:70
+msgid "Gravatar"
+msgstr ""
+
+#: includes/admin.php:78
+msgid "Edit Prodile link"
+msgstr ""
+
+#: includes/admin.php:86
+msgid "Full width for the avatar"
+msgstr ""
+
+#: includes/admin.php:94
+msgid "Full height for the avatar"
+msgstr ""
+
+#: includes/admin.php:116
+msgid "Disable."
+msgstr ""
+
+#: includes/admin.php:133
+msgid "Replace WordPress edit profile link (admin) with bbPress one (front)"
+msgstr ""
+
+#: includes/admin.php:148 includes/admin.php:163
+msgid "pixels"
+msgstr ""
+
+#: includes/filters.php:74
+msgid "Avatar of %s"
+msgstr ""
+
+#: includes/filters.php:102
+msgid "Allowed Files"
+msgstr ""
+
+#: includes/functions.php:93
+msgid "bbPress Avatar uses this draft post to attach the avatars of your bbPress users, please leave it as is. It will not show on your blog."
+msgstr ""
+
+#: includes/functions.php:94
+msgid "The images you will attach to this post will be available for users as avatar suggestions"
+msgstr ""
+
+#: includes/functions.php:99
+msgid "bbPress Avatar utility - Do not delete"
+msgstr ""
+
+#: includes/functions.php:217
+msgid "Avatar Image"
+msgstr ""
+
+#: includes/functions.php:332
+msgid "Upload your Avatar"
+msgstr ""
+
+#: includes/functions.php:338
+msgid "Change your Avatar"
+msgstr ""
+
+#: includes/functions.php:342
+msgid "Delete your Avatar"
+msgstr ""
+
+#: includes/functions.php:445
+msgid "The uploaded file is not a valid image. Please try again."
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "bbPress Avatar"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://imathi.eu/tag/bbp-avatar/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Extends bbPress to manage Avatars locally (upload/get)"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "imath"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://imathi.eu"
+msgstr ""
