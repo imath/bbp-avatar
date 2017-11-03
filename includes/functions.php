@@ -251,10 +251,7 @@ function bbpavatar_get_avatar( $args = '' ) {
 		else {
 			$attachment = wp_get_attachment_image_src( $bbpavatar_user_data->id, 'thumbnail' );
 
-			if( empty( $attachment ) || !is_array( $attachment ) )
-				delete_user_meta( $user_id, '_bbpavatar_user_data' );
-
-			else {
+			if ( !empty( $attachment ) && is_array( $attachment ) ) {
 				$gravatar = apply_filters( "bbpavatar_get_avatar_found", $attachment[0], $params );
 			}
 
