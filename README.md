@@ -1,6 +1,8 @@
 bbPress Avatar
 ==============
 
+**This WP/bbP Plugin is no more supported and this repository is now archived.**
+
 It extends the [bbPress](http://bbpress.org) plugin with an internal avatar management system. Forum Participants can upload their avatar and have a full control of it (edit/delete). The administrator can also define a suggestion list of avatars to the participants.
 
 <img src="http://farm8.staticflickr.com/7429/9226531888_8e906bfe53_o.png" width="500px">
